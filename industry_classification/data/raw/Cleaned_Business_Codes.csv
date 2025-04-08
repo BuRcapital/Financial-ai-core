@@ -1,0 +1,402 @@
+﻿Industry,Sub-Industry,Code,Description
+,Crop Production,111100, Oilseed & Grain Farming
+,Crop Production,111210, Vegetable & Melon Farming (including potatoes & yams)
+,Crop Production,111300, Fruit & Tree Nut Farming
+,Crop Production,111400," Greenhouse, Nursery, & Floriculture Production"
+,Crop Production,111100, Oilseed & Grain Farming
+,Crop Production,111210, Vegetable & Melon Farming (including potatoes & yams)
+,Crop Production,111300, Fruit & Tree Nut Farming
+,Crop Production,111400," Greenhouse, Nursery, & Floriculture Production"
+,Animal Production,112111, Beef Cattle Ranching & Farming
+,Animal Production,112112, Cattle Feedlots
+,Animal Production,112120, Dairy Cattle & Milk Production
+,Animal Production,112210, Hog & Pig Farming
+,Animal Production,112300, Poultry & Egg Production
+,Animal Production,112400, Sheep & Goat Farming
+,Animal Production,112510, Aquaculture (including shellfish & finfish farms & hatcheries)
+,Animal Production,112900, Other Animal Production
+,Forestry And Logging,113110, Timber Tract Operations
+,Forestry And Logging,113210, Forest Nurseries & Gathering of Forest Products
+,Forestry And Logging,113310, Logging
+,"Fishing, Hunting And Trapping",114110, Fishing
+,"Fishing, Hunting And Trapping",114210, Hunting & Trapping
+,"Preparation, Planting, & Cultivating)",115210, Support Activities for Animal Production
+,"Preparation, Planting, & Cultivating)",115310, Support Activities for Forestry
+,Mining,211110, Oil & Gas Extraction
+,Mining,212110, Coal Mining
+,Mining,212200, Metal Ore Mining
+,Mining,212310, Stone Mining & Quarrying
+,Quarrying,212390, Other Nonmetallic Mineral Mining & Quarrying
+,Quarrying,213110, Support Activities for Mining
+,Utilities,221100," Electric Power Generation, Transmission & Distribution"
+,Utilities,221210, Natural Gas Distribution
+,Utilities,221300," Water, Sewage & Other Systems"
+,Utilities,221500, Combination Gas & Electric
+,Construction Of Buildings,236110, Residential Building Construction
+,Construction Of Buildings,236200, Nonresidential Building Construction
+,Heavy And Civil Engineering Construction,237100, Utility System Construction
+,Heavy And Civil Engineering Construction,237210, Land Subdivision
+,Heavy And Civil Engineering Construction,237310," Highway, Street, & Bridge Construction"
+,Heavy And Civil Engineering Construction,237990, Other Heavy & Civil Engineering Construction
+,"Framing Carpentry, Masonry, Glass, Roofing, & Siding)",238210, Electrical Contractors
+,"Framing Carpentry, Masonry, Glass, Roofing, & Siding)",238220," Plumbing, Heating, & Air-Conditioning Contractors"
+,"Framing Carpentry, Masonry, Glass, Roofing, & Siding)",238290, Other Building Equipment Contractors
+,"Wallcovering, Flooring, Tile, & Finish Carpentry)",238900, Other Specialty Trade Contractors (including site preparation)
+,Food Manufacturing,311110, Animal Food Mfg
+,Food Manufacturing,311200, Grain & Oilseed Milling
+,Food Manufacturing,311300, Sugar & Confectionary Product Mfg
+,Food Manufacturing,311400, Fruit & Vegetable Preserving & Specialty Food Mfg
+,Food Manufacturing,311500, Dairy Product Mfg
+,Food Manufacturing,311610, Animal Slaughtering and Processing
+,Food Manufacturing,311710, Seafood Product Preparation & Packaging
+,Food Manufacturing,311800," Bakeries, Tortilla & Dry Pasta Mfg"
+,Food Manufacturing,311900," Other Food Mfg (including coffee, tea, flavorings & seasonings)"
+,Beverage And Tobacco Product Manufacturing,312110, Soft Drink & Ice Mfg
+,Beverage And Tobacco Product Manufacturing,312120, Breweries
+,Beverage And Tobacco Product Manufacturing,312130, Wineries
+,Beverage And Tobacco Product Manufacturing,312140, Distilleries
+,Beverage And Tobacco Product Manufacturing,312200, Tobacco Manufacturing
+,Textile Mills And Textile Product Mills,313000, Textile Mills
+,Textile Mills And Textile Product Mills,314000, Textile Product Mills
+,Apparel Manufacturing,315100, Apparel Knitting Mills
+,Apparel Manufacturing,315210, Cut & Sew Apparel Contractors
+,Apparel Manufacturing,315220, Men's & Boys' Cut & Sew Apparel Mfg.
+,Apparel Manufacturing,315240," Women's, Girls' and Infants' Cut & Sew Apparel Mfg."
+,Apparel Manufacturing,315280, Other Cut & Sew Apparel Mfg
+,Apparel Manufacturing,315990, Apparel Accessories & Other Apparel Mfg
+,Leather And Allied Product Manufacturing,316110," Leather & Hide Tanning, & Finishing"
+,Leather And Allied Product Manufacturing,316210, Footwear Mfg (including rubber & plastics)
+,Leather And Allied Product Manufacturing,316990, Other Leather & Allied Product Mfg
+,Wood Product Manufacturing,321110, Sawmills & Wood Preservation
+,Wood Product Manufacturing,321210," Veneer, Plywood, & Engineered Wood Product Mfg"
+,Wood Product Manufacturing,321900, Other Wood Product Mfg
+,Paper Manufacturing,322100," Pulp, Paper, & Paperboard Mills"
+,Paper Manufacturing,322200, Converted Paper Product Mfg
+,Printing And Related Support Activities,323100, Printing & Related Support Activities
+,Petroleum And Coal Products Manufacturing,324110, Petroleum Refineries (including integrated)
+,Petroleum And Coal Products Manufacturing,324120," Asphalt Paving, Roofing, & Saturated Materials Mfg"
+,Petroleum And Coal Products Manufacturing,324190, Other Petroleum & Coal Products Mfg
+,Chemical Manufacturing,325100, Basic Chemical Mfg
+,Chemical Manufacturing,325200," Resin, Synthetic Rubber, & Artificial & Synthetic Fibers & Filaments Mfg"
+,Chemical Manufacturing,325300," Pesticide, Fertilizer, & Other Agricultural Chemical Mfg"
+,Chemical Manufacturing,325410, Pharmaceutical & Medicine Mfg
+,Chemical Manufacturing,325500," Paint, Coating, & Adhesive Mfg"
+,Chemical Manufacturing,325600," Soap, Cleaning Compound, & Toilet Preparation Mfg"
+,Chemical Manufacturing,325900, Other Chemical Product & Preparation Mfg
+,Plastics And Rubber Products Manufacturing,326100, Plastics Product Mfg
+,Plastics And Rubber Products Manufacturing,326200, Rubber Product Mfg
+,Nonmetallic Mineral Productmanufacturing,327100, Clay Product & Refractory Mfg
+,Nonmetallic Mineral Productmanufacturing,327210, Glass & Glass Product Mfg
+,Nonmetallic Mineral Productmanufacturing,327300, Cement & Concrete Product Mfg
+,Nonmetallic Mineral Productmanufacturing,327400, Lime & Gypsum Product Mfg
+,Nonmetallic Mineral Productmanufacturing,327900, Other Nonmetallic Mineral Product Mfg
+,Primary Metal Manufacturing,331110, Iron & Steel Mills & Ferroalloy Mfg
+,Primary Metal Manufacturing,331200, Steel Product Mfg from Purchased Steel
+,Primary Metal Manufacturing,331310, Alumina & Aluminum Production & Processing
+,Primary Metal Manufacturing,331400, Nonferrous Metal (except Aluminum) Production & Processing
+,Primary Metal Manufacturing,331500, Foundries
+,Fabricated Metal Product Manufacturing,332110, Forging & Stamping
+,Fabricated Metal Product Manufacturing,332210, Cutlery & Handtool Mfg
+,Fabricated Metal Product Manufacturing,332300, Architectural & Structural Metals Mfg
+,Fabricated Metal Product Manufacturing,332400," Boiler, Tank, & Shipping Container Mfg"
+,Fabricated Metal Product Manufacturing,332510, Hardware Mfg
+,Fabricated Metal Product Manufacturing,332610, Spring & Wire Product Mfg
+,Fabricated Metal Product Manufacturing,332700," Machine Shops; Turned Product; & Screw, Nut, & Bolt Mfg"
+,Fabricated Metal Product Manufacturing,332810," Coating, Engraving, Heat Treating, & Allied Activities"
+,Fabricated Metal Product Manufacturing,332900, Other Fabricated Metal Product Mfg
+,Machinery Manufacturing,333100," Agriculture, Construction, & Mining Machinery Mfg"
+,Machinery Manufacturing,333200, Industrial Machinery Mfg
+,Machinery Manufacturing,333310, Commercial & Service Industry Machinery Mfg
+,Equipment Mfg,333510, Metalworking Machinery Mfg
+,Equipment Mfg,333610," Engine, Turbine & Power Transmission Equipment Mfg"
+,Equipment Mfg,333900, Other General Purpose Machinery Mfg
+,Computer And Electronic Product Manufacturing,334110, Computer & Peripheral Equipment Mfg
+,Computer And Electronic Product Manufacturing,334200, Communications Equipment Mfg
+,Computer And Electronic Product Manufacturing,334310, Audio & Video Equipment Mfg
+,Computer And Electronic Product Manufacturing,334410, Semiconductor & Other Electronic Component Mfg
+,Computer And Electronic Product Manufacturing,334500," Navigational, Measuring, Electromedical, & Control Instruments Mfg"
+,Computer And Electronic Product Manufacturing,334610, Manufacturing & Reproducing Magnetic & Optical Media
+,"Electrical Equipment, Appliance, And Component Manufacturing",335100, Electric Lighting Equipment Mfg
+,"Electrical Equipment, Appliance, And Component Manufacturing",335200, Household Appliance Mfg
+,"Electrical Equipment, Appliance, And Component Manufacturing",335310, Electrical Equipment Mfg
+,"Electrical Equipment, Appliance, And Component Manufacturing",335900, Other Electrical Equipment & Component Mfg
+,Transportation Equipment Manufacturing,336100, Motor Vehicle Mfg
+,Transportation Equipment Manufacturing,336210, Motor Vehicle Body & Trailer Mfg
+,Transportation Equipment Manufacturing,336300, Motor Vehicle Parts Mfg
+,Transportation Equipment Manufacturing,336410, Aerospace Product & Parts Mfg
+,Transportation Equipment Manufacturing,336510, Railroad Rolling Stock Mfg
+,Transportation Equipment Manufacturing,336610, Ship & Boat Building
+,Transportation Equipment Manufacturing,336990, Other Transportation Equipment Mfg
+,Furniture And Related Product Manufacturing,337000, Furniture & Related Product Manufacturing
+,Miscellaneous Manufacturing,339110, Medical Equipment & Supplies Mfg
+,Miscellaneous Manufacturing,339900, Other Miscellaneous Mfg
+,"Merchant Wholesalers, Durable Goods",423100," Motor Vehicle, & Motor Vehicle Parts & Supplies"
+,"Merchant Wholesalers, Durable Goods",423200, Furniture & Home Furnishings
+,"Merchant Wholesalers, Durable Goods",423300, Lumber & Other Construction Materials
+,"Merchant Wholesalers, Durable Goods",423400, Professional & Commercial Equipment & Supplies
+,"Merchant Wholesalers, Durable Goods",423500, Metal & Mineral (except petroleum)
+,"Merchant Wholesalers, Durable Goods",423600, Household Appliances and Electrical & Electronic Goods
+,"Merchant Wholesalers, Durable Goods",423700," Hardware, Plumbing, & Heating Equipment & Supplies"
+,"Merchant Wholesalers, Durable Goods",423800," Machinery, Equipment, & Supplies"
+,"Merchant Wholesalers, Durable Goods",423910, Sporting & Recreational Goods & Supplies
+,"Merchant Wholesalers, Durable Goods",423920," Toy, & Hobby Goods, & Supplies"
+,"Merchant Wholesalers, Durable Goods",423930, Recyclable Materials
+,"Merchant Wholesalers, Durable Goods",423940," Jewelry, Watch, Precious Stone, & Precious Metals"
+,"Merchant Wholesalers, Durable Goods",423990, Other Miscellaneous Durable Goods
+,"Merchant Wholesalers, Nondurable Goods",424100, Paper & Paper Products
+,"Merchant Wholesalers, Nondurable Goods",424210, Drugs & Druggists' Sundries
+,"Merchant Wholesalers, Nondurable Goods",424300," Apparel, Piece Goods, & Notions"
+,"Merchant Wholesalers, Nondurable Goods",424400, Grocery & Related Products
+,"Merchant Wholesalers, Nondurable Goods",424500, Farm Product Raw Materials
+,"Merchant Wholesalers, Nondurable Goods",424600, Chemical & Allied Products
+,"Merchant Wholesalers, Nondurable Goods",424700, Petroleum & Petroleum Products
+,"Merchant Wholesalers, Nondurable Goods",424800," Beer, Wine, & Distilled Alcoholic Beverages"
+,"Merchant Wholesalers, Nondurable Goods",424910, Farm Supplies
+,"Merchant Wholesalers, Nondurable Goods",424920," Book, Periodical, & Newspapers"
+,"Merchant Wholesalers, Nondurable Goods",424930," Flower, Nursery Stock, & Florists' Supplies"
+,"Merchant Wholesalers, Nondurable Goods",424940, Tobacco & Tobacco Products
+,"Merchant Wholesalers, Nondurable Goods",424950," Paint, Varnish, & Supplies"
+,"Merchant Wholesalers, Nondurable Goods",424990, Other Miscellaneous Nondurable Goods
+,Wholesale Electronic Markets And Agents And Brokers,425110, Business to Business Electronic Markets
+,Wholesale Electronic Markets And Agents And Brokers,425120, Wholesale Trade Agents & Brokers
+,Motor Vehicle And Parts Dealers,441110, New Car Dealers
+,Motor Vehicle And Parts Dealers,441120, Used Car Dealers
+,Motor Vehicle And Parts Dealers,441210, Recreational Vehicle Dealers
+,Motor Vehicle And Parts Dealers,441222, Boat Dealers
+,Motor Vehicle And Parts Dealers,441228," Motorcycle, ATV, and All Other Motor Vehicle Dealers"
+,Motor Vehicle And Parts Dealers,441300," Automotive Parts, Accessories, & Tire Stores"
+,Furniture And Home Furnishings Stores,442110, Furniture Stores
+,Furniture And Home Furnishings Stores,442210, Floor Covering Stores
+,Furniture And Home Furnishings Stores,442291, Window Treatment Stores
+,Furniture And Home Furnishings Stores,442299, All Other Home Furnishings Stores
+,Electronics And Appliance Stores,443141, Household Appliance Stores
+,Building Material And Garden Equipment And Supplies Dealers,444110, Home Centers
+,Building Material And Garden Equipment And Supplies Dealers,444120, Paint & Wallpaper Stores
+,Building Material And Garden Equipment And Supplies Dealers,444130, Hardware Stores
+,Building Material And Garden Equipment And Supplies Dealers,444190, Other Building Material Dealers
+,Building Material And Garden Equipment And Supplies Dealers,444200, Lawn & Garden Equipment & Supplies Stores
+,Food And Beverage Stores,445110, Supermarkets and Other Grocery (except Convenience) Stores
+,Food And Beverage Stores,445120, Convenience Stores
+,Food And Beverage Stores,445210, Meat Markets
+,Food And Beverage Stores,445220, Fish & Seafood Markets
+,Food And Beverage Stores,445230, Fruit & Vegetable Markets
+,Food And Beverage Stores,445291, Baked Goods Stores
+,Food And Beverage Stores,445292, Confectionery & Nut Stores
+,Food And Beverage Stores,445299, All Other Specialty Food Stores
+,Food And Beverage Stores,445310," Beer, Wine, & Liquor Stores"
+,Health And Personal Care Stores,446110, Pharmacies & Drug Stores
+,Health And Personal Care Stores,446120," Cosmetics, Beauty Supplies, & Perfume Stores"
+,Health And Personal Care Stores,446130, Optical Goods Stores
+,Health And Personal Care Stores,446190, Other Health & Personal Care Stores
+,Gasoline Stations,447100, Gasoline Stations (including convenience stores with gas)
+,Clothing And Clothing Accessories Stores,448110, Men's Clothing Stores
+,Clothing And Clothing Accessories Stores,448120, Women's Clothing Stores
+,Clothing And Clothing Accessories Stores,448130, Children's & Infants' Clothing Stores
+,Clothing And Clothing Accessories Stores,448140, Family Clothing Stores
+,Clothing And Clothing Accessories Stores,448150, Clothing Accessories Stores
+,Clothing And Clothing Accessories Stores,448190, Other Clothing Stores
+,Clothing And Clothing Accessories Stores,448210, Shoe Stores
+,Clothing And Clothing Accessories Stores,448310, Jewelry Stores
+,Clothing And Clothing Accessories Stores,448320, Luggage & Leather Goods Stores
+,"Sporting Goods, Hobby, Book, And Music Stores",451110, Sporting Goods Stores
+,"Sporting Goods, Hobby, Book, And Music Stores",451120," Hobby, Toy, & Game Stores"
+,"Sporting Goods, Hobby, Book, And Music Stores",451130," Sewing, Needlework, & Piece Goods Stores"
+,"Sporting Goods, Hobby, Book, And Music Stores",451140, Musical Instrument & Supplies Stores
+,"Sporting Goods, Hobby, Book, And Music Stores",451211, Book Stores
+,"Sporting Goods, Hobby, Book, And Music Stores",451212, News Dealers & Newsstands
+,General Merchandise Stores,452110, Department Stores
+,General Merchandise Stores,452900, Other General Merchandise Stores
+,Miscellaneous Store Retailers,453110, Florists
+,Miscellaneous Store Retailers,453210, Office Supplies & Stationery Stores
+,Miscellaneous Store Retailers,453220," Gift, Novelty, & Souvenir Stores"
+,Miscellaneous Store Retailers,453310, Used Merchandise Stores
+,Miscellaneous Store Retailers,453910, Pet & Pet Supplies Stores
+,Miscellaneous Store Retailers,453920, Art Dealers
+,Miscellaneous Store Retailers,453930, Manufactured (Mobile) Home Dealers
+,Nonstore Retailers,454110, Electronic Shopping & Mail-Order Houses
+,Nonstore Retailers,454210, Vending Machine Operators
+,Nonstore Retailers,454310, Fuel Dealers (including Heating Oil and Liquefied Petroleum)
+,"Other Direct Selling Establishments (Including Door-To-Door Retailing,",454390," frozen food plan providers, party plan merchandisers, & coffee-break"
+,"Air, Rail, And Water Transportation",481000, Air Transportation
+,"Air, Rail, And Water Transportation",482110, Rail Transportation
+,"Air, Rail, And Water Transportation",483000, Water Transportation
+,Truck Transportation,484110," General Freight Trucking, Local"
+,Truck Transportation,484120," General Freight Trucking, Long-distance"
+,Truck Transportation,484200, Specialized Freight Trucking
+,Transit And Ground Passenger Transportation,485110, Urban Transit Systems
+,Transit And Ground Passenger Transportation,485210, Interurban & Rural Bus Transportation
+,Transit And Ground Passenger Transportation,485310, Taxi Service
+,Transit And Ground Passenger Transportation,485320, Limousine Service
+,Transit And Ground Passenger Transportation,485410, School & Employee Bus Transportation
+,Transit And Ground Passenger Transportation,485510, Charter Bus Industry
+,Transit And Ground Passenger Transportation,485990, Other Transit & Ground Passenger Transportation
+,Pipeline Transportation,486000, Pipeline Transportation
+,Scenic & Sightseeing Transportation,487000, Scenic & Sightseeing Transportation
+,Support Activities For Transportation,488100, Support Activities for Air Transportation
+,Support Activities For Transportation,488210, Support Activities for Rail Transportation
+,Support Activities For Transportation,488300, Support Activities for Water Transportation
+,Support Activities For Transportation,488410, Motor Vehicle Towing
+,Support Activities For Transportation,488490, Other Support Activities for Road Transportation
+,Support Activities For Transportation,488510, Freight Transportation Arrangement
+,Support Activities For Transportation,488990, Other Support Activities for Transportation
+,Couriers And Messengers,492110, Couriers
+,Couriers And Messengers,492210, Local Messengers & Local Delivery
+,Information Publishing Industries (Except Internet),511110, Newspaper Publishers
+,Information Publishing Industries (Except Internet),511120, Periodical Publishers
+,Information Publishing Industries (Except Internet),511130, Book Publishers
+,Information Publishing Industries (Except Internet),511140, Directory & Mailing List Publishers
+,Information Publishing Industries (Except Internet),511190, Other Publishers
+,Information Publishing Industries (Except Internet),511210, Software Publishers
+,Motion Picture And Sound Recording Industries,512100, Motion Picture & Video Industries (except video rental)
+,Motion Picture And Sound Recording Industries,512200, Sound Recording Industries
+,Broadcasting (Except Internet),515100, Radio & Television Broadcasting
+,Broadcasting (Except Internet),515210, Cable & Other Subscription Programming
+,"Telecommunications (Including Paging, Cellular, Satellite, Cable & Other",517000," program distribution, resellers, other telecommunications, & internet"
+,Data Processing Services,518210," Data Processing, Hosting, & Related Services"
+,Depository Credit Intermediation,522110, Commercial Banking
+,Depository Credit Intermediation,522120, Savings Institutions
+,Depository Credit Intermediation,522130, Credit Unions
+,Depository Credit Intermediation,522190, Other Depository Credit Intermediation
+,Nondepository Credit Intermediation,522210, Credit Card Issuing
+,Nondepository Credit Intermediation,522220, Sales Financing
+,Nondepository Credit Intermediation,522291, Consumer Lending
+,Nondepository Credit Intermediation,522292, Real Estate Credit (including mortgage bankers & originators)
+,Nondepository Credit Intermediation,522293, International Trade Financing
+,Nondepository Credit Intermediation,522294, Secondary Market Financing
+,Nondepository Credit Intermediation,522298, All Other Nondepository Credit Intermediation
+,Activities,523110, Investment Banking & Securities Dealing
+,Activities,523120, Securities Brokerage
+,Activities,523130, Commodity Contracts Dealing
+,Activities,523140, Commodity Contracts Brokerage
+,Activities,523210, Securities & Commodity Exchanges
+,Insurance Carriers And Related Activities,524130, Reinsurance Carriers
+,Insurance Carriers And Related Activities,524140," Direct Life, Health, & Medical Insurance Carriers"
+,Insurance Carriers And Related Activities,524150," Direct Insurance (except Life, Health & Medical) Carriers"
+,Insurance Carriers And Related Activities,524210, Insurance Agencies & Brokerages
+,"Funds, Trusts, And Other Financial Vehicles",525100, Insurance & Employee Benefit Funds
+,"Funds, Trusts, And Other Financial Vehicles",525910, Open-End Investment Funds (Form 1120-RIC)
+,"Funds, Trusts, And Other Financial Vehicles",525920," Trusts, Estates, & Agency Accounts"
+,Real Estate,531110, Lessors of Residential Buildings & Dwellings (including equity REITs)
+,Equity Reits),531130, Lessors of Miniwarehouses & Self-Storage Units (including equity REITs)
+,Equity Reits),531190, Lessors of Other Real Estate Property (including equity REITs)
+,Equity Reits),531210, Offices of Real Estate Agents & Brokers
+,Equity Reits),531310, Real Estate Property Managers
+,Equity Reits),531320, Offices of Real Estate Appraisers
+,Equity Reits),531390, Other Activities Related to Real Estate
+,Rental And Leasing Services,532100, Automotive Equipment Rental & Leasing
+,Rental And Leasing Services,532210, Consumer Electronics & Appliances Rental
+,Rental And Leasing Services,532220, Formal Wear & Costume Rental
+,Rental And Leasing Services,532230, Video Tape & Disc Rental
+,Rental And Leasing Services,532290, Other Consumer Goods Rental
+,Rental And Leasing Services,532310, General Rental Centers
+,Rental And Leasing Services,532400, Commercial & Industrial Machinery & Equipment Rental & Leasing
+,Lessors Of Nonfinancial Intangible Assets (Except Copyrighted Works),533110, Lessors of Nonfinancial Intangible Assets (except copyrighted works)
+,Legal Services,541110, Offices of Lawyers
+,Legal Services,541190, Other Legal Services
+,"Accounting, Tax Preparation, Bookkeeping, And Payroll Services",541211, Offices of Certified Public Accountants
+,"Accounting, Tax Preparation, Bookkeeping, And Payroll Services",541213, Tax Preparation Services
+,"Accounting, Tax Preparation, Bookkeeping, And Payroll Services",541214, Payroll Services
+,"Accounting, Tax Preparation, Bookkeeping, And Payroll Services",541219, Other Accounting Services
+,"Architectural, Engineering, And Related Services",541310, Architectural Services
+,"Architectural, Engineering, And Related Services",541320, Landscape Architecture Services
+,"Architectural, Engineering, And Related Services",541330, Engineering Services
+,"Architectural, Engineering, And Related Services",541340, Drafting Services
+,"Architectural, Engineering, And Related Services",541350, Building Inspection Services
+,"Architectural, Engineering, And Related Services",541360, Geophysical Surveying & Mapping Services
+,"Architectural, Engineering, And Related Services",541370, Surveying & Mapping (except Geophysical) Services
+,"Architectural, Engineering, And Related Services",541380, Testing Laboratories
+,Computer Systems Design And Related Services,541511, Custom Computer Programming Services
+,Computer Systems Design And Related Services,541512, Computer Systems Design Services
+,Computer Systems Design And Related Services,541513, Computer Facilities Management Services
+,Computer Systems Design And Related Services,541519, Other Computer Related Services
+,"Other Professional, Scientific, And Technical Services",541600," Management, Scientific, & Technical Consulting Services"
+,"Other Professional, Scientific, And Technical Services",541700, Scientific Research & Development Services
+,"Other Professional, Scientific, And Technical Services",541800, Advertising & Related Services
+,"Other Professional, Scientific, And Technical Services",541910, Marketing Research & Public Opinion Polling
+,"Other Professional, Scientific, And Technical Services",541920, Photographic Services
+,"Other Professional, Scientific, And Technical Services",541930, Translation & Interpretation Services
+,"Other Professional, Scientific, And Technical Services",541940, Veterinary Services
+,"Other Professional, Scientific, And Technical Services",541990," All Other Professional, Scientific, & Technical Services"
+,(Holding Companies),551111, Offices of Bank Holding Companies
+,(Holding Companies),551112, Offices of Other Holding Companies
+,Administration And Support Services,561110, Office Administrative Services
+,Administration And Support Services,561210, Facilities Support Services
+,Administration And Support Services,561300, Employment Services
+,Administration And Support Services,561410, Document Preparation Services
+,Administration And Support Services,561420, Telephone Call Centers
+,Administration And Support Services,561430, Business Service Centers (including private mail centers & copy shops)
+,Administration And Support Services,561440, Collection Agencies
+,Administration And Support Services,561450, Credit Bureaus
+,"Reporting, & Stenotype Services)",561500, Travel Arrangement & Reservation Services
+,"Reporting, & Stenotype Services)",561600, Investigation & Security Services
+,"Reporting, & Stenotype Services)",561710, Exterminating & Pest Control Services
+,"Reporting, & Stenotype Services)",561720, Janitorial Services
+,"Reporting, & Stenotype Services)",561730, Landscaping Services
+,"Reporting, & Stenotype Services)",561740, Carpet & Upholstery Cleaning Services
+,"Reporting, & Stenotype Services)",561790, Other Services to Buildings & Dwellings
+,Waste Management And Remediation Services,562000, Waste Management and Remediation Services
+,Educational Services,611000," Educational Services (including schools, colleges, & universities)"
+,Offices Of Physicians And Dentists,621111, Offices of Physicians (except mental health specialists)
+,Offices Of Physicians And Dentists,621112," Offices of Physicians, Mental Health Specialists"
+,Offices Of Physicians And Dentists,621210, Offices of Dentists
+,Offices Of Other Health Practitioners,621310, Offices of Chiropractors
+,Offices Of Other Health Practitioners,621320, Offices of Optometrists
+,Offices Of Other Health Practitioners,621330, Offices of Mental Health Practitioners (except Physicians)
+,Offices Of Other Health Practitioners,621340," Offices of Physical, Occupational & Speech Therapists, & Audiologists"
+,Offices Of Other Health Practitioners,621391, Offices of Podiatrists
+,Offices Of Other Health Practitioners,621399, Offices of all Other Miscellaneous Health Practitioners
+,Outpatient Care Centers,621410, Family Planning Centers
+,Outpatient Care Centers,621420, Outpatient Mental Health & Substance Abuse Centers
+,Outpatient Care Centers,621491, HMO Medical Centers
+,Outpatient Care Centers,621492, Kidney Dialysis Centers
+,Outpatient Care Centers,621493, Freestanding Ambulatory Surgical & Emergency Centers
+,Outpatient Care Centers,621498, All Other Outpatient Care Centers
+,Medical And Diagnostic Laboratories,621510, Medical & Diagnostic Laboratories
+,Home Health Care Services,621610, Home Health Care Services
+,Hospitals,622000, Hospitals
+,Nursing And Residential Care Facilities,623000, Nursing & Residential Care Facilities
+,Social Assistance,624100, Individual & Family Services
+,Social Assistance,624200," Community Food & Housing, & Emergency & Other Relief Services"
+,Social Assistance,624310, Vocational Rehabilitation Services
+,Social Assistance,624410, Child Day Care Services
+,"Performing Arts, Spectator Sports, And Related Industries",711100, Performing Arts Companies
+,"Performing Arts, Spectator Sports, And Related Industries",711210, Spectator Sports (including sports clubs & racetracks)
+,"Performing Arts, Spectator Sports, And Related Industries",711300," Promoters of Performing Arts, Sports, & Similar Events"
+,Figures,711510," Independent Artists, Writers, & Performers"
+,"Museums, Historical Sites, And Similar Institutions",712100," Museums, Historical Sites, & Similar Institutions"
+,"Amusements, Gambling, And Recreation Industries",713100, Amusement Parks & Arcades
+,"Amusements, Gambling, And Recreation Industries",713200, Gambling Industries
+,Accommodation And Food Services Accommodation,721110, Hotels (except Casino Hotels) & Motels
+,Accommodation And Food Services Accommodation,721120, Casino Hotels
+,Accommodation And Food Services Accommodation,721191, Bed & Breakfast Inns
+,Accommodation And Food Services Accommodation,721199, All other Traveler Accommodation
+,Accommodation And Food Services Accommodation,721210, RV (Recreational Vehicle) Parks & Recreational Camps
+,Accommodation And Food Services Accommodation,721310, Rooming & Boarding Houses
+,Food Services And Drinking Places,722300, Special Food Services (including food service contractors & caterers)
+,Food Services And Drinking Places,722410, Drinking Places (Alcoholic Beverages)
+,Food Services And Drinking Places,722511, Full-Service Restaurants
+,Food Services And Drinking Places,722513, Limited-Service Restaurants
+,Food Services And Drinking Places,722514, Cafeterias and Buffets
+,Food Services And Drinking Places,722515, Snack and Non-alcoholic Beverage Bars
+,Repair And Maintenance,811110," Automotive Mechanical, & Electrical Repair & Maintenance"
+,Repair And Maintenance,811120," Automotive Body, Paint, Interior, & Glass Repair"
+,Lubrication Shops & Car Washes),811210, Electronic & Precision Equipment Repair & Maintenance
+,Electronic) Repair & Maintenance,811410, Home & Garden Equipment & Appliance Repair & Maintenance
+,Electronic) Repair & Maintenance,811420, Reupholstery & Furniture Repair
+,Electronic) Repair & Maintenance,811430, Footwear & Leather Goods Repair
+,Electronic) Repair & Maintenance,811490, Other Personal & Household Goods Repair & Maintenance
+,Personal And Laundry Services,812111, Barber Shops
+,Personal And Laundry Services,812112, Beauty Salons
+,Personal And Laundry Services,812113, Nail Salons
+,Personal And Laundry Services,812190, Other Personal Care Services (including diet & weight reducing centers)
+,Personal And Laundry Services,812210, Funeral Homes & Funeral Services
+,Personal And Laundry Services,812220, Cemeteries & Crematories
+,Personal And Laundry Services,812310, Coin-Operated Laundries & Drycleaners
+,Personal And Laundry Services,812320, Drycleaning & Laundry Services (except Coin-Operated)
+,Personal And Laundry Services,812330, Linen & Uniform Supply
+,Personal And Laundry Services,812910, Pet Care (except Veterinary) Services
+,Personal And Laundry Services,812920, Photofinishing
+,Personal And Laundry Services,812930, Parking Lots & Garages
+,Personal And Laundry Services,812990, All Other Personal Services
+,(Including Condominium And Homeowners Associations),813930, Labor Unions and Similar Labor Organizations
+,Governmental Instrumentality Or Agency,921000, Governmental Instrumentality or Agency
